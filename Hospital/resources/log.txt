@@ -1,0 +1,15 @@
+06/12/2016
+Visao completo e separado parcialmente
+Modelo corrigido algumas funçoes
+
+29/11
+Gerente Implementado Usando Singleton
+Ponto Implementado usando Padrao Estrategia (Mesmo que nao precisasse)
+Implementado Quartos com Padrao Estado
+
+Visao Finalizado -- Começar a adicionar funçoes agora
+
+22/11
+Quase Finalizando Visao
+16/11
+Adicionado varias classes de Visao
