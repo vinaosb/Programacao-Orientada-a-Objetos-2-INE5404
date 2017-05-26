@@ -1,0 +1,8 @@
+Criado e Finalizado Visao
+Arrumado algumas funcoes que estavam apontando null.
+Criado Diagrama de Classes
+
+
+Erro conhecido:
+Nao esta importando o dicionario completo do resources.
+Se criar um dicionario manualmente funciona corretamente contudo.
