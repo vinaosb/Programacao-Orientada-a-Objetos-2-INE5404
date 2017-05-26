@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.10" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="modelo.Prefeito" project="Eleicao" file="/Eleicao/src/modelo/Prefeito.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="171" x="703" y="1723"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="modelo.Candidato" project="Eleicao" file="/Eleicao/src/modelo/Candidato.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="267" width="244" x="1019" y="1361"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="modelo.Partido" project="Eleicao" file="/Eleicao/src/modelo/Partido.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="304" width="291" x="998" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="modelo.UrnaAberta" project="Eleicao" file="/Eleicao/src/modelo/UrnaAberta.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="276" x="512" y="781"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="modelo.Eleitor" project="Eleicao" file="/Eleicao/src/modelo/Eleitor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="199" x="703" y="2085"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="modelo.ZonaEleitoral" project="Eleicao" 
+    file="/Eleicao/src/modelo/ZonaEleitoral.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="286" x="463" y="2809"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="modelo.SecaoEleitoral" project="Eleicao" 
+    file="/Eleicao/src/modelo/SecaoEleitoral.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="212" x="470" y="2501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="modelo.LoadStore" project="Eleicao" file="/Eleicao/src/modelo/LoadStore.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="321" x="874" y="19"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="modelo.UrnaFechada" project="Eleicao" file="/Eleicao/src/modelo/UrnaFechada.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="280" x="552" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="modelo.Votos" project="Eleicao" file="/Eleicao/src/modelo/Votos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="189" x="411" y="1723"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="modelo.UrnaCadastrada" project="Eleicao" 
+    file="/Eleicao/src/modelo/UrnaCadastrada.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="158" x="512" y="581"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="modelo.Urna" project="Eleicao" file="/Eleicao/src/modelo/Urna.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="250" x="390" y="1361"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="modelo.EstadosDaUrna" project="Eleicao" 
+    file="/Eleicao/src/modelo/EstadosDaUrna.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="87" width="134" x="512" y="183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="modelo.Vereador" project="Eleicao" file="/Eleicao/src/modelo/Vereador.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="178" x="935" y="1723"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="modelo.FachadaCartorioEleitoral" project="Eleicao" 
+    file="/Eleicao/src/modelo/FachadaCartorioEleitoral.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1025" y="408"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="16">    
+    <bendpoint x="521" y="1017"/>    
+    <bendpoint x="691" y="1361"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="17">    
+    <bendpoint x="712" y="2501"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="18" name="zona">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="19" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="20">    
+    <bendpoint x="479" y="1017"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="21">    
+    <bendpoint x="862" y="1017"/>    
+    <bendpoint x="867" y="1361"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="22">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="23">    
+    <bendpoint x="437" y="581"/>    
+    <bendpoint x="437" y="781"/>    
+    <bendpoint x="437" y="1017"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="24">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="25">    
+    <bendpoint x="359" y="1723"/>    
+    <bendpoint x="359" y="2085"/>    
+    <bendpoint x="359" y="2501"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="26" name="zona">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="27" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="28">    
+    <bendpoint x="883" y="581"/>    
+    <bendpoint x="883" y="781"/>    
+    <bendpoint x="883" y="1017"/>    
+    <bendpoint x="825" y="1361"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="29">    
+    <bendpoint x="380" y="1723"/>    
+    <bendpoint x="380" y="2085"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="30" name="secao">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="31" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="33" name="secao">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="34" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <bendpoint x="338" y="581"/>    
+    <bendpoint x="338" y="781"/>    
+    <bendpoint x="338" y="1017"/>    
+    <bendpoint x="338" y="1361"/>    
+    <bendpoint x="338" y="1723"/>    
+    <bendpoint x="338" y="2085"/>    
+    <bendpoint x="338" y="2501"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="36" name="zonas">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="38">    
+    <bendpoint x="818" y="581"/>    
+    <bendpoint x="818" y="781"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="39">    
+    <bendpoint x="1172" y="581"/>    
+    <bendpoint x="1070" y="781"/>    
+    <bendpoint x="967" y="1017"/>    
+    <bendpoint x="967" y="1361"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="41">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <association id="42">    
+    <bendpoint x="1193" y="581"/>    
+    <bendpoint x="1193" y="781"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="43" name="partidos">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="44" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <bendpoint x="988" y="1361"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="46" name="candidatosVereador">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="49" name="eleitores">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="50" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="52">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="53" name="zona">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="54" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="55">    
+    <bendpoint x="1319" y="581"/>    
+    <bendpoint x="1319" y="781"/>    
+    <bendpoint x="1319" y="1017"/>    
+    <bendpoint x="1319" y="1361"/>    
+    <bendpoint x="1319" y="1723"/>    
+    <bendpoint x="1319" y="2085"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="56">    
+    <bendpoint x="712" y="1361"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="57">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="58" name="secoes">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="59" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="60">    
+    <bendpoint x="458" y="781"/>    
+    <bendpoint x="458" y="1017"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="62">    
+    <bendpoint x="925" y="1361"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="63" name="candidatoPrefeito">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="64" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="66">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="67">    
+    <bendpoint x="630" y="2085"/>    
+    <bendpoint x="630" y="1723"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="68" name="urna">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="69" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="70">    
+    <bendpoint x="651" y="1723"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="72">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="73" name="votos">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="74" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="75">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="76">    
+    <bendpoint x="500" y="1017"/>    
+    <bendpoint x="670" y="1361"/>    
+    <bendpoint x="672" y="1723"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <generalization id="77">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <dependency id="78">    
+    <bendpoint x="904" y="581"/>    
+    <bendpoint x="904" y="781"/>    
+    <bendpoint x="904" y="1017"/>    
+    <bendpoint x="904" y="1361"/>    
+    <bendpoint x="904" y="1723"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="79">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="80">    
+    <bendpoint x="846" y="1361"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <association id="81">    
+    <bendpoint x="1143" y="1723"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="82" name="dadosPessoais">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="83" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="84">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
